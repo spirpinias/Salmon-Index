@@ -1,0 +1,13 @@
+metadata_version: 1
+name: Salmon Preparing Transcriptome Indices for Mapping-Based Mode
+description: |-
+  Salmon is a tool for wicked-fast transcript quantification from RNA-seq data. It requires a set of target transcripts (either from a reference or de-novo assembly) to quantify. This capsule generates an index of transcripts for use downstream in salmon quantification for raw fastq files.
+
+  https://salmon.readthedocs.io/en/latest/salmon.html
+tags:
+- Genomics
+- Bulk Sequencing
+- RNA
+- Expression
+authors:
+- name: Maxim Kuleshov
