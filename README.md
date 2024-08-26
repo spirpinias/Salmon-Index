@@ -1,7 +1,3 @@
-[![Code Ocean Logo](images/CO_logo_135x72.png)](http://codeocean.com/product)
-
-<hr>
-
 # Indexing for Mapping Based Quantification
 
 Salmon has two modes, one works on aligned reads and one which works directly on fastqs. This capsule is intended for when you wish to run with unmapped reads and output an index for direct quantification. 
@@ -77,8 +73,3 @@ Roberts, Adam, et al. “Improving RNA-Seq expression estimates by correcting fo
 Patro, Rob, et al. “Salmon provides fast and bias-aware quantification of transcript expression.” Nature Methods (2017). Advanced Online Publication. doi: 10.1038/nmeth.4197..
 
 Love, Michael I., Hogenesch, John B., Irizarry, Rafael A. “Modeling of RNA-seq fragment sequence bias reduces systematic errors in transcript abundance estimation.” Nature Biotechnology 34.12 (2016). doi: 10.1038/nbt.368.2..
-
-<hr>
-
-[Code Ocean](https://codeocean.com/) is a cloud-based computational platform that aims to make it easy for researchers to share, discover, and run code.<br /><br />
-[![Code Ocean Logo](images/CO_logo_68x36.png)](https://www.codeocean.com)
